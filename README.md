@@ -16,7 +16,7 @@ Features
 Author
 ------
 
-This code was written by Will Woods in 2023.
+This code was written by Will Woods in an effort to further familiarize himself with the basic (no pun intended) of Visual Basic.
 
 Instructions
 ------------
